@@ -1,0 +1,17 @@
+{
+    "Proakis": {
+        "Image_to_Hide": "patient1_to_hide.png",
+        "Image_to_Send": "patient1_to_send.png",
+        "Password": "parseval"
+    },
+    "Simon": {
+        "Image_to_Hide": "patient2_to_hide.png",
+        "Image_to_Send": "patient2_to_send.png",
+        "Password": "euler"
+    },
+    "Shreya": {
+        "Image_to_Hide": "patient3_to_hide.png",
+        "Image_to_Send": "patient3_to_send.png",
+        "Password": "wavelet"
+    }
+}
